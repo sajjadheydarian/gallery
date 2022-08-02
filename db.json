@@ -1,0 +1,231 @@
+{
+  "posts": [
+    {
+      "name": "bugatti",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "id": 1
+    },
+    {
+      "name": "غروب افتاب",
+      "image": "http://pic.photo-aks.com/large/beautifull_sunset.jpg",
+      "text": "غروب خورشید طلایی",
+      "id": 2,
+      "show": 0,
+      "id_category": 2
+    },
+    {
+      "name": "bugatti",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 3,
+      "show": 1,
+      "id_category": 5
+    },
+    {
+      "name": "bugatti",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 4,
+      "show": 0,
+      "id_category": 5
+    },
+    {
+      "name": "bugatti",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 5,
+      "show": 1,
+      "id_category": 5
+    },
+    {
+      "name": "bugatti",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 6,
+      "show": 1,
+      "id_category": 5
+    },
+    {
+      "name": "bugatti",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 7,
+      "show": 1,
+      "id_category": 5
+    },
+    {
+      "name": "bugatti",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 8,
+      "show": 1,
+      "id_category": 5
+    },
+    {
+      "name": "bugatti",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 8,
+      "show": 1,
+      "id_category": 5
+    },
+    {
+      "name": "bugatti",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 9,
+      "show": 1,
+      "id_category": 5
+    },
+    {
+      "name": "lamborghini",
+      "image": "https://twitterapi.liara.run//uploads/images/2022/3/17/1647442088974-263822.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 10,
+      "show": 1,
+      "id_category": 5
+    },
+    {
+      "name": "bugatti",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 11,
+      "show": 1,
+      "id_category": 5
+    },
+    {
+      "name": "bugatti",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 12,
+      "show": 1,
+      "id_category": 5
+    },
+    {
+      "name": "bugatti",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 13,
+      "show": 1,
+      "id_category": 5
+    },
+    {
+      "name": "bugatti",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 12,
+      "show": 1,
+      "id_category": 5
+    },
+    {
+      "name": "bugatti",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 13,
+      "show": 1,
+      "id_category": 5
+    },
+    {
+      "name": "bugatti",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 14,
+      "show": 1,
+      "id_category": 5
+    },
+    {
+      "name": "bugatti",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 15,
+      "show": 1,
+      "id_category": 5
+    },
+    {
+      "name": "bugatti",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 16,
+      "show": 1,
+      "id_category": 5
+    },
+    {
+      "name": "bugatti",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+      "id": 17,
+      "show": 1,
+      "id_category": 5
+    },
+    {
+      "name": "bugatti 2",
+      "text": "best car in world",
+      "image": "http://pic.photo-aks.com/large/bugatti-divo.jpg",
+      "id": 21,
+      "show": 0
+    }
+  ],
+  "cat": [
+    {
+      "name": "همه عکس ها",
+      "id": 1
+    },
+    {
+      "name": "خورشید",
+      "id": 2
+    },
+    {
+      "name": "ورزش",
+      "id": 3
+    },
+    {
+      "name": "حیوانات",
+      "id": 4
+    },
+    {
+      "name": "ماشین",
+      "id": 5
+    },
+    {
+      "name": "سگ",
+      "id": 6
+    },
+    {
+      "name": "مو",
+      "id": 8
+    },
+    {
+      "name": "گیاه",
+      "id": 9
+    },
+    {
+      "name": "دختر",
+      "id": 10
+    },
+    {
+      "name": "پسر",
+      "id": 11
+    },
+    {
+      "name": "کوه",
+      "id": 12
+    },
+    {
+      "name": "برکه",
+      "id": 13
+    },
+    {
+      "name": "دریا",
+      "id": 14
+    },
+    {
+      "name": "مناظر",
+      "id": 15
+    },
+    {
+      "id": 783,
+      "name": "علی"
+    }
+  ]
+}
